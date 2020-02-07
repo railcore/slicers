@@ -8,5 +8,5 @@ These configs are tested by community members and dog-fooded. That said, make su
 # Community Member Slicer Configurations
 Linked below are configs for various RailCore community members. 
 
-* [John O'Shaughnessy](https://github.com/JohnOCFII/RailCore)
+* [John O'Shaughnessy](https://github.com/JohnOCFII/RailCore/tree/master/slicers/PrusaSlicer)
 * [Nate Walck](https://github.com/natewalck/railcoreiiduet/)
