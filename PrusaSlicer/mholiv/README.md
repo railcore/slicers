@@ -12,15 +12,13 @@ Tl;Dr: More beginner friendly and more generic.
 
 3. Spaced support interface layers that are MUCH MUCH easier to remove then solid.
 
-4. Removal of brand specific profiles and the focus on generic profiles.
+4. Easier to understand print setting descriptions.
 
-5. Easier to understand print setting descriptions.
+5. Small quality of life changes such as supports being off by default and gyroid infill set as default.
 
-6. Small quality of life changes such as supports being off by default and gyroid infill set as default.
+6. Both the Railcore ZL and ZLT have profiles by default.
 
-7. Both the Railcore ZL and ZLT have profiles by default.
-
-8. Print setting are locked to the printer model giving you a cleaner interface.
+7. Print setting are locked to the printer model giving you a cleaner interface.
 
 ## Installation
 
